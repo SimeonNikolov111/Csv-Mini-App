@@ -1,0 +1,14 @@
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\CsvApp.exe
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\CsvApp.deps.json
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\CsvApp.runtimeconfig.json
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\CsvApp.runtimeconfig.dev.json
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\CsvApp.dll
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\CsvApp.pdb
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\obj\Debug\netcoreapp3.1\CsvApp.AssemblyInfoInputs.cache
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\obj\Debug\netcoreapp3.1\CsvApp.AssemblyInfo.cs
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\obj\Debug\netcoreapp3.1\CsvApp.dll
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\obj\Debug\netcoreapp3.1\CsvApp.pdb
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\obj\Debug\netcoreapp3.1\CsvApp.csprojAssemblyReference.cache
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\obj\Debug\netcoreapp3.1\CsvApp.csproj.CopyComplete
+C:\Users\simeo\Desktop\CSVApp-Plain\CSVApp\CsvApp\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
